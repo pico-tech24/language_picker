@@ -16,10 +16,10 @@ app_include_js =["/assets/change_language/js/custom_nav2.js"]
 
 # include js, css files in header of web template
 # web_include_css = "/assets/change_language/css/change_language.css"
-web_include_js = ["/assets/change_language/js/custom_nav2.js"]
+# web_include_js = ["/assets/change_language/js/custom_nav2.js"]
 
 # include custom scss in every website theme (without file extension ".scss")
-website_theme_scss = "change_language/public/scss/website"
+# website_theme_scss = "change_language/public/scss/website"
 
 # include js, css files in header of web form
 # webform_include_js = {"doctype": "public/js/doctype.js"}
